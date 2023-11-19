@@ -10,7 +10,7 @@ PIN: Ognjen(6)+Obradović(9) % 6 = 3
                   
 PROTEUS:
 Za izradu domaćeg zadatka koristio sam otpornik, takodje i jednu diodu kako bih mogao da detektujem promene signala. Koristio sam kao i do sada na vežbama mikrokontroler STM32F103C6. Dioda želimo da prikaže PVM signal, u elektronici on izgleda ovako:
-domaci
+![domaci](https://github.com/ognjenobravocikg/MIPS-prvi-doma-i-zadatak-2023/assets/94371789/eaaa4178-2ecb-484e-8971-419b0db33405)
 
 STM32IDE:
 U podešavanjima RCC , za high speed clock sam koristio Crystal/Ceramic Resonator, a budući da signal šaljem preko mikrokontolera na PIN postavio sam PIN 3 kao GPIO-OUTPUT. Unutar koda sam u beskonačnoj for petlji koja simulira rad našeg mikrokontolera, slao sledeće:
