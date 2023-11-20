@@ -6,6 +6,7 @@ STUDENT: OGNJEN OBRADOVIĆ 631/2021 RTSI
 Budući da koristim latinicu za izradu domaćeg zadatka pisao sam svoje ime kao Ognjen pa mi u ovom slučaju ime ima 6 slova.
 
 PORT: Ognjen ima više suglasnika nego samoglasnika, pa sam koristio PORT B
+
 PIN: Ognjen(6)+Obradović(9) % 6 = 3
                   
 PROTEUS:
